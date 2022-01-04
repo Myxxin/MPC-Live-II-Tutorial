@@ -53,19 +53,26 @@ Touch the **DO IT** icon and let the MPC do its magic. Press **PLAY START** to h
 
 ````
 MASTER-BPM
-Touching the SEQUENCE icon under the BPM selector changes the tempo to master-mode, which is the same for all sequences. 
+Touching the SEQUENCE icon under the BPM selector changes the tempo to master-mode, 
+which is the same for all sequences. 
 We don't have to bother with that now. 
 ````
-Have you forgotten the BPM of your sample? Don't worry, the original isn't gone. Just go back to the **SAMPLE EDIT**, press the big encoder and select the very first sample in the list. Change chop-mode back to trim-mode and you'll see the original tempo once again. 
+Have you forgotten the BPM of your sample? Don't worry, the original isn't gone. 
+Just go back to the **SAMPLE EDIT**, press the big encoder and select the very first sample in the list. 
+Change chop-mode back to trim-mode and you'll see the original tempo once again. 
 
 ```
 CHANGING THE BPM
 You might wonder how to proceed if you want to work with a different tempo than what your sample provides. 
-To achieve that, you have to take a couple of additional steps. Before you slice your sample by region, you have to create a single slice for ideally every single transient - or as many regions as you can manage before your eventual mental breakdown. 
+To achieve that, you have to take a couple of additional steps. 
+Before you slice your sample by region, you have to create a single slice for ideally every single transient 
+- or as many regions as you can manage before your eventual mental breakdown. 
 
 This is where threshold dependent automatic splicing can really help you out. 
-After you've done that, convert your slices to a new program and create the corresponding MIDI events, just like in this tutorial. Now you have much more freedom to adjust the tempo in the MAIN view. 
-Select your desired BPM and it should sound fine unless you go for some really extreme settings. Touch the pencil icon on the right side in the sequence section and select BOUNCE TO SAMPLE, which will create a new sample in the correct tempo without any warping artifacts. You can now chop up this new sample into regions like before. 
+After you've done that, convert your slices to a new program and create the corresponding MIDI events, 
+just like in this tutorial. Now you have much more freedom to adjust the tempo in the MAIN view. 
+Select your desired BPM and it should sound fine unless you go for some really extreme settings. 
+Touch the pencil icon on the right side in the sequence section and select BOUNCE TO SAMPLE, which will create a new sample in the correct tempo without any warping artifacts. You can now chop up this new sample into regions like before. 
 ```
 Your playback should now sound exactly like a loop of your original sample. If the timing is still off, you probably selected the wrong number of bars during the conversion to a new program.
 
@@ -81,24 +88,41 @@ But now it's time to mess things up! You could draw new midi events inside the G
 ```
 COLORING THE PADS
 You might like to change the color of the pads for better readability. 
-Press MENU and go to PAD COLOR. Change the mode to FIXED and SINGLE PAD. You can assign the selected color either by dragging it onto the pad or by simply playing the pad.
+Press MENU and go to PAD COLOR. Change the mode to FIXED and SINGLE PAD. 
+You can assign the selected color either by dragging it onto the pad or by simply playing the pad.
 So much fancier.
 ```
 
 ```
 PROCESSING THE SLICES
 If you still got some time left, you might like to process your slices individually inside the PROGRAM EDIT. 
-Press MENU and touch the icon. Switch to the SAMPLES tab. Simply tab one of the pads to change to the corresponding pad/slice. Even in this view, we can make a couple creative adjustments. Strictly speaking, all of the following changes do NOT affect the sample itself, but rather the pad it has been assigned to. 
-For example, you could pitch your slice up or down via the SEMI(-tone) selector. This also changes the tempo (which can be desirable) unless you turn on the warp mode and enter the correct BMP from earlier. 
-Now you'll get some pretty crazy warping artifacts when you change the pitch! This is how some of the more "out-there" electronic musicians like Arca do their sound design (but inside a DAW). Another neat effect is to reverse the whole sample using the REVERSE icon. If you want your slice to sound different every single time, you might fancy a look into the LFO tab, but I'll skip over that for now. You can check out the IDM tutorial if you're interested in that. 
+Press MENU and touch the icon. Switch to the SAMPLES tab. 
+Simply tab one of the pads to change to the corresponding pad/slice. 
+Even in this view, we can make a couple creative adjustments. 
+Strictly speaking, all of the following changes do NOT affect the sample itself, 
+but rather the pad it has been assigned to. 
+For example, you could pitch your slice up or down via the SEMI(-tone) selector. 
+This also changes the tempo (which can be desirable) unless you turn on the warp mode and enter the correct BMP from earlier. 
+Now you'll get some pretty crazy warping artifacts when you change the pitch! 
+This is how some of the more "out-there" electronic musicians like Arca do their sound design (but inside a DAW). 
+Another neat effect is to reverse the whole sample using the REVERSE icon. If you want your slice to sound different every single time, you might fancy a look into the LFO tab, but I'll skip over that for now. You can check out the IDM tutorial if you're interested in that. 
 
-Go to the EFFECT tab next. Here you can mangle your slice with up to four insert effects - you should be familiar with these from your DAW. How about adding a long reverb to just a single pad? 
-I'm a big fan of the Granulator and the Talk Box effects (both inside the Harmonic category), the latter turns every sound into a very silly sounding human vowel. If four effects aren't enough for you, there are additional DRUM FX as well if you touch the EFFECTS tab again. 
+Go to the EFFECT tab next. 
+Here you can mangle your slice with up to four insert effects - you should be familiar with these from your DAW. 
+How about adding a long reverb to just a single pad? 
+I'm a big fan of the Granulator and the Talk Box effects (both inside the Harmonic category), 
+the latter turns every sound into a very silly sounding human vowel. 
+If four effects aren't enough for you, there are additional DRUM FX as well if you touch the EFFECTS tab again. 
 
-You might run into a dilemma here - "Should I sacrifice my original slice for a reverse effect?" Thankfully, you don't have to choose between the two since you can copy a pad of your choice. While your still inside the PROGRAM EDIT, press and hold COPY until all the pads light up yellow. Tab the pad you want to copy - it should turn green. 
-Your first pad bank is probably full, so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tab your destination pad - it should light up in red. You can now process these two pads seperately. 
+You might run into a dilemma here - "Should I sacrifice my original slice for a reverse effect?" 
+Thankfully, you don't have to choose between the two since you can copy a pad of your choice. 
+While your still inside the PROGRAM EDIT, press and hold COPY until all the pads light up yellow. 
+Tab the pad you want to copy - it should turn green. 
+Your first pad bank is probably full, so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tab your destination pad - it should light up in red. 
+You can now process these two pads seperately. 
 
-Keep in mind that these effects are applied to single pads. If you want to add effects to the whole program, press MAIN, touch the little eyeball icon and touch the INSERTS field. 
+Keep in mind that these effects are applied to single pads. 
+If you want to add effects to the whole program, press MAIN, touch the little eyeball icon and touch the INSERTS field. 
 ```
 
 Finally, it is time to record. Press **MAIN** and turn off loop mode via this little icon.
@@ -116,7 +140,9 @@ You can aid your playing further by using a metronome - you can open its setting
 
 Press the **REC** button - it should light up. Press **PLAY START** and you'll hear a four-beat count-in for you to get ready. Now play.
 
-![This will be you soon](https://media2.giphy.com/media/65MoTYZAlrI4etpmp3/giphy.gif?cid=ecf05e47b8r6gj9mtmzuh74wyyf2n7jazwigcgk93bljmbxq&rid=giphy.gif&ct=g)
+![Hip Hop Dance GIF By Curly_mads](https://media2.giphy.com/media/65MoTYZAlrI4etpmp3/giphy.gif?cid=ecf05e47b8r6gj9mtmzuh74wyyf2n7jazwigcgk93bljmbxq&rid=giphy.gif&ct=g)
+
+[Hip Hop Dance GIF By Curly_mads](https://media2.giphy.com/media/65MoTYZAlrI4etpmp3/giphy.gif?cid=ecf05e47b8r6gj9mtmzuh74wyyf2n7jazwigcgk93bljmbxq&rid=giphy.gif&ct=g)
 
 
 You probably messed that up.   
@@ -145,8 +171,12 @@ Press **SHIFT + MENU** to go back into the **BROWSE** view and load the Vittorio
 
 ```
 DIFFICULTIES WITH TONAL MATERIAL   
-When using multiple tonal samples from different recordings, you have to be careful that everything's in the same key (or just call yourself avantgarde and use this to great effect like in the Drakengard example). 
-You can achieve this by pitch-shifting the entire recording to the correct key. However, real/good music by real/good musicians tends to be sooooooo complicated, so there might be tons of key modulations to look out for. Even when everything is in the right key, the different samples might create harmonies that are far from what to what you'd like to hear. I'd recommend to solve this issue with Melodyne's polyphonic pitch correction, which is also great for building harmonic progressions out of static material. 
+When using multiple tonal samples from different recordings, you have to be careful that everything's in the same key 
+(or just call yourself avantgarde and use this to great effect like in the Drakengard example). 
+You can achieve this by pitch-shifting the entire recording to the correct key. 
+However, real/good music by real/good musicians tends to be sooooooo complicated, so there might be tons of key modulations to look out for. 
+Even when everything is in the right key, the different samples might create harmonies that are far from what to what you'd like to hear. 
+I'd recommend to solve this issue with Melodyne's polyphonic pitch correction, which is also great for building harmonic progressions out of static material. 
 ```
 Press **SHIFT + MUTE** to go back to the SAMPLE EDIT. You could now chop up the score into regions, but it's way too long for that. Instead, I'd recommend to extract individual samples. This time, stay in **TRIM** mode and select a section that you'd like to extract using the different Q-LINK banks. 
 
