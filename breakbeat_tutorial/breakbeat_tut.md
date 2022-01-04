@@ -115,6 +115,12 @@ You can aid your playing further by using a metronome - you can open its setting
 ![Metro Settings](imgs/09.png)
 
 Press the **REC** button - it should light up. Press **PLAY START** and you'll hear a four-beat count-in for you to get ready. Now play.
+
+![This will be you soon](https://i.gifer.com/2Kyk.gif)
+<p>
+<br>
+</p>
+
 <p>
 <br>
 <br>
@@ -138,15 +144,47 @@ Maybe you also want to record your playing once again without overwriting the ex
 Being put on the spot like that can be daunting for some and fortunately, there's another way to record. During your initial jams, you might have thought "Damn, that was a DOPE ASS BEAT, too bad I did record that!" With MIDI capture, you can easily recover that lost spark of genius: 
 Press **SHIFT + REC** and these MIDI events from the past will be added after the playhead retrospectively. 
 
-Your sequence might sound [something like this](audio/01.wav)
+Your sequence might sound [something like this.](audio/01.wav)
 
 (The added glitch sounds and the super authentic vinyl crackle were taken from the internal sound library.)
 
 
+If you came this far: Good job! This wasn't as easy as I promised. 
+
+## Extracting individual slices
+
+If you still got some time left, it might be a good idea to add some tonal material as well. 
+Maybe you want the sound of an orchestra, but you can't even read notes? Don't worry, the MPC got you covered. 
+With the same method as before, we can also slice up classical pieces. [This is one of my favourite examples of resampled classical music.](https://www.youtube.com/watch?v=55JU-r08ULY&list=PL8woW7Kc7z-YLptfM9eO31FlgRaxKNyCD&index=3) [Susumu Yokata is also quite wonderful.](https://www.youtube.com/watch?v=uA1Rvgo5ipo)
+
+Press **SHIFT + MENU** to go back into the **BROWSE** view and load the Vittorio Gianni piece into your project (or any other recording that you like - just drag it onto the SD card or a USB stick).
+
+```
+DIFFICULTIES WITH TONAL MATERIAL   
+When using multiple tonal samples from different recordings, you have to be careful that everything's in the same key (or just call yourself avantgarde and use this to great effect like in the Drakengard example). 
+You can achieve this by pitch-shifting the entire recording to the correct key. However, real/good music by real/good musicians tends to be sooooooo complicated, so there might be tons of key modulations to look out for. Even when everything is in the right key, the different samples might create harmonies that are far from what to what you'd like to hear. I'd recommend to solve this issue with Melodyne's polyphonic pitch correction, which is also great for building harmonic progressions out of static material. 
+```
+Press **SHIFT + MUTE** to go back to the SAMPLE EDIT. You could now chop up the score into regions, but it's way too long for that. Instead, I'd recommend to extract individual samples. This time, stay in **TRIM** mode and select a section that you'd like to extract using the different Q-LINK banks. 
+
+![Finding a sample](imgs/10.png)
+
+Once you've found something nice, touch the **PROCESS** icon in the bottom right corner. Select Extract as the function and give your new sample a good name. **DO IT**. Press **MAIN**. The new program we created with our drum slices earlier was added to the second track. Switch back to Track 01 and touch **ASSIGN SAMPLES** in the program section (this view is accessible as a tab from the **BROWSE** view). Drag your sample onto one the pads - you can now play it like before!
+
+![Sample Assign](imgs/11.png)
+
+Maybe you want this particular sample to loop while you hold down the pad. 
+Go to **PROGRAM EDIT** again and select the **SAMPLE PLAY** mode **NOTE ON** in the **MASTER** tab (I couldn't find a screenshot for that unfortunately). Now your sample will only be played as long as you hold down the pad. 
+Next, go to the **SAMPLES** tab and turn on **WARP** mode and enter the correct BPM (for Vittorio it's supposed to be 107.91, but I'm not too sure about that. Well, it worked for me). 
+
+![Warping the Sample](imgs/12.png)
 
 
+Collect a bunch of samples this way and hit record once again. [Something like this might emerge.](audio/02.wav)
 
+And that's the end for this addendum. Don't forget to save your project as "yourSurname-breakbeat” so that other students can appreciate your creation. You're great! Send me your rendered .wav file via Telegram.
 
+If you want more breakbeats, [look no further.](https://rhythm-lab.com/breakbeats)
+If you want to turn this sketch into a song, I commend the third tutorial.
 
 
 
