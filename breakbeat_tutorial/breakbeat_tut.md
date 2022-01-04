@@ -72,7 +72,9 @@ This is where threshold dependent automatic splicing can really help you out.
 After you've done that, convert your slices to a new program and create the corresponding MIDI events, 
 just like in this tutorial. Now you have much more freedom to adjust the tempo in the MAIN view. 
 Select your desired BPM and it should sound fine unless you go for some really extreme settings. 
-Touch the pencil icon on the right side in the sequence section and select BOUNCE TO SAMPLE, which will create a new sample in the correct tempo without any warping artifacts. You can now chop up this new sample into regions like before. 
+Touch the pencil icon on the right side in the sequence section and select BOUNCE TO SAMPLE, 
+which will create a new sample in the correct tempo without any warping artifacts. 
+You can now chop up this new sample into regions like before. 
 ```
 Your playback should now sound exactly like a loop of your original sample. If the timing is still off, you probably selected the wrong number of bars during the conversion to a new program.
 
@@ -105,7 +107,9 @@ For example, you could pitch your slice up or down via the SEMI(-tone) selector.
 This also changes the tempo (which can be desirable) unless you turn on the warp mode and enter the correct BMP from earlier. 
 Now you'll get some pretty crazy warping artifacts when you change the pitch! 
 This is how some of the more "out-there" electronic musicians like Arca do their sound design (but inside a DAW). 
-Another neat effect is to reverse the whole sample using the REVERSE icon. If you want your slice to sound different every single time, you might fancy a look into the LFO tab, but I'll skip over that for now. You can check out the IDM tutorial if you're interested in that. 
+Another neat effect is to reverse the whole sample using the REVERSE icon. 
+If you want your slice to sound different every single time, you might fancy a look into the LFO tab, but I'll skip over that for now. 
+You can check out the IDM tutorial if you're interested in that. 
 
 Go to the EFFECT tab next. 
 Here you can mangle your slice with up to four insert effects - you should be familiar with these from your DAW. 
@@ -118,7 +122,8 @@ You might run into a dilemma here - "Should I sacrifice my original slice for a 
 Thankfully, you don't have to choose between the two since you can copy a pad of your choice. 
 While your still inside the PROGRAM EDIT, press and hold COPY until all the pads light up yellow. 
 Tab the pad you want to copy - it should turn green. 
-Your first pad bank is probably full, so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tab your destination pad - it should light up in red. 
+Your first pad bank is probably full, 
+so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tab your destination pad - it should light up in red. 
 You can now process these two pads seperately. 
 
 Keep in mind that these effects are applied to single pads. 
@@ -174,9 +179,11 @@ DIFFICULTIES WITH TONAL MATERIAL
 When using multiple tonal samples from different recordings, you have to be careful that everything's in the same key 
 (or just call yourself avantgarde and use this to great effect like in the Drakengard example). 
 You can achieve this by pitch-shifting the entire recording to the correct key. 
-However, real/good music by real/good musicians tends to be sooooooo complicated, so there might be tons of key modulations to look out for. 
+However, real/good music by real/good musicians tends to be sooooooo complicated, 
+so there might be tons of key modulations to look out for. 
 Even when everything is in the right key, the different samples might create harmonies that are far from what to what you'd like to hear. 
-I'd recommend to solve this issue with Melodyne's polyphonic pitch correction, which is also great for building harmonic progressions out of static material. 
+I'd recommend to solve this issue with Melodyne's polyphonic pitch correction, 
+which is also great for building harmonic progressions out of static material. 
 ```
 Press **SHIFT + MUTE** to go back to the SAMPLE EDIT. You could now chop up the score into regions, but it's way too long for that. Instead, I'd recommend to extract individual samples. This time, stay in **TRIM** mode and select a section that you'd like to extract using the different Q-LINK banks. 
 
