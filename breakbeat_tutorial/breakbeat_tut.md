@@ -116,25 +116,9 @@ You can aid your playing further by using a metronome - you can open its setting
 
 Press the **REC** button - it should light up. Press **PLAY START** and you'll hear a four-beat count-in for you to get ready. Now play.
 
-![This will be you soon](https://i.gifer.com/2Kyk.gif)
-<p>
-<br>
-</p>
+![This will be you soon](https://media2.giphy.com/media/65MoTYZAlrI4etpmp3/giphy.gif?cid=ecf05e47b8r6gj9mtmzuh74wyyf2n7jazwigcgk93bljmbxq&rid=giphy.gif&ct=g)
 
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+
 You probably messed that up.   
 Don't worry, just hit the **UNDO** button and try again.   
 When you're done, press **STOP** to stop our virtual tape machine. You can now go back into the **GRID** view to adjust your timing, to add new MIDI events etc. 
