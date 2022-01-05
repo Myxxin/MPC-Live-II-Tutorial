@@ -98,7 +98,7 @@ Go back to the **MAIN** view and touch the **PROJECT** selector in the top left 
 ![Projects](/imgs/09.png)  
 ![Project Management](/imgs/10.png)
 
-Here, you can save your project (which contains all recorded samples) internally or onto SD/thumb drive. You can also export your current selected sequence as a .wav file. Touch the **NEW** icon at the bottom to go back to the starting screen and this time, select an empty project for you to fill.
+Here, you can save your project (which contains all recorded samples) internally or onto SD/thumb drive. ~~This is also very useful in case you want to steal the internal samples.~~ You can also export your current selected sequence as a .wav file. Touch the **NEW** icon at the bottom to go back to the starting screen and this time, select an empty project for you to fill.
 
 ## Pick your Poison
 
