@@ -107,7 +107,7 @@ Since the MPC can do so much, it is impossible to cover them all in one tutorial
 
 To hear the audio examples within VS code, I recommend [this extension.](https://marketplace.visualstudio.com/items?itemName=sukumo28.wav-preview)
 
-In the first and second tutorial, you'll come across code bocks that look like this:
+In the first and second tutorial, you'll come across code blocks that look like this:
 
 ```
 HINT
@@ -116,22 +116,25 @@ Some text.
 
 These boxes give you additional information that is completely optional. You can skip these if you're running out of time and you definitely don't have to do everything explained in there yourself. 
 
+All of these techniques can be replicated in your DAW too (often much easier...), so hit me up if you're interested in that. 
+
 ### [Breakbeat Tutorial](breakbeat_tutorial/breakbeat_tut.md)
 In this tutorial, you’ll create a short loop that will [sound similar to this.](breakbeat_tutorial/audio/02.wav)  
-This is the tutorial that is the closest to the traditional MPC workflow since it will show you how to slice apart existing recordings and to stich them back together into something new in a Frankensteinian way.     
+This is the tutorial that is the closest to the traditional MPC workflow, since it will show you how to slice apart existing recordings and to stich them back together into something new in a Frankensteinian way.     
 Choose this tutorial if you have almost no experience with making music or if you’re unsure about what tutorial to choose. It’s probably the best one. 
 
 ### [IDM Tutorial](idm_tutorial/idm_tut.md)
 In this tutorial, you’ll also create a short drum loop, [but it sounds quite different this time.](idm_tutorial/audio/07.WAV)  
-I took concept of emergence from our CC1 class and applied it to drum sequencing to create a loop that sounds different every time you play it. This tutorial highlights the idea that you can achieve things with the MPC that it was never meant for if you think a bit outside the box.   
+I took concept of emergence from our CC1 class and applied it to drum sequencing to create a loop that sounds different every time you play it. This tutorial highlights the idea that you can achieve things with the MPC that it was never meant for, as long as you think a bit outside the box.   
 You can do this tutorial without any prior knowledge, but it helps if you know the basics of drum programming.   
 Choose this if you’re into that kind of that kind of sound.
 
 ### [Song Mode Tutorial](song_mode_tutorial/song_mode_tut.md)
-This tutorial will show you how to create a whole song [like this one](song_mode_tutorial/audio/01.wav) (can someone please the end for me? I got a bit lazy there) instead of just loops.   
+This tutorial will show you how to create a whole song [like this one](song_mode_tutorial/audio/01.wav) (can someone please fix the end for me? I got a bit lazy there) instead of just loops. This tutorial requires a basic understanding of some recording concepts such as overdubs and automation. 
 Choose this if you’re confident that you can come up with music on your own or if you want to continue one of the earlier tutorials like I did with the second one. 
 
 You must choose, but choose wisely.   
+
 If you run into any issues, just call me.   
 Don’t forget to save your final project as “yourSurname-tutorial”; “winter-breakbeat” for example (we’re not allowed to use _ for some reason). 
 

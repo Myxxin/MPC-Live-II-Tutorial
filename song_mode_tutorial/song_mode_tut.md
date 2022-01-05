@@ -1,13 +1,14 @@
 # Song Mode Tutorial
 
 Here's to the king of all tutorials: **Song Mode**.  
-With this, I won't hold your hand. I'll only provide the information that you need to string multiple sequnences together but it's up to you to fill them. You could of course also open up my own song "song-winter" and fix its sloppy finale, but that'd be quite lazy. If you feel completly uninspired, it might be a good idea to go through one of the other two tutorials. For my part, I'll continue the gnarly IDM loop from the second tutorial and turn it into something even more nasty 🤮. 
+With this, I won't hold your hand. I'll only provide the information that you need to string multiple sequnences together, but it's up to you to fill them. You could of course also open up my own song "song-winter" and fix its sloppy finale, but that'd be quite lazy. If you feel completly uninspired, it might be a good idea to go through one of the other two tutorials. For my part, I'll continue the gnarly IDM loop from the second tutorial and turn it into something even more nasty 🤮. 
 
 ## Additional Basics
 This is the basic information that you need to know to quickly fill a loop
 ### Recording
 You switch on recording mode by pressing the **REC** button.   
-If you want to record **OVERDUBS**, there's a switch right next to it. To use MIDI-capture similar to how you would in Ableton Live, press **SHIFT + REC**.  
+If you want to record **OVERDUBS**, there's a switch right next to it.   
+To use MIDI-capture similar to how you would in Ableton Live, press **SHIFT + REC**.  
 
 ### MIDI Editor
 The MPCs MIDI editor is known as the **GRID** view and you open it via **SHIFT + MAIN**.   
@@ -26,7 +27,9 @@ Changing the program will change it for all the tracks that it's assigned to.
 The **PROGRAM EDIT** looks different dependant on the the track type and plugin.
 
 ### Automation
-You can record automation by toggeling this weird icon from **R** for Read to **W** for Write.   
+You can record automation by toggeling this weird icon from **R** for **R**ead to **W** for **W**rite. 
+
+![Weird Icon](/song_mode_tutorial/imgs/08.png)  
 You can edit your recording inside the **LIST EDIT** from the menu, but it's a huge pain and I'd try to avoid it as much as possible. There's a somewhat hidden way to edit automation inside the **GRID** view as well.   
 Touch **Velocity** and turn the big encoder to cycle through the different paramters you've recorded automation for.
 
@@ -95,6 +98,7 @@ For each entry, you can change the sequence, the number of loops played, the BPM
 Select the first entry and press **PLAY** to hear the entire thing!  
 You can now either convert the song to a single sequence by tapping **CONVERT > SEQ** or you directly **EXPORT** a rendered .wav file onto your thumb drive or SD card. 
 
-For me, the result sounds again [like this.](audio/01.wav)
+For me, the result sounds again [like this.](audio/01.wav)  
+![TayTay](https://c.tenor.com/jAQ70FMATUIAAAAd/taylor-swift-taylor-swift-grammys.gif)  
 This really isn’t my genre…  
 Anyways, congratulations! You finished your own song. Don't forget to save it as "yourSurname-song".

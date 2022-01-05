@@ -32,7 +32,7 @@ You might like to add a little "fill" by speeding up this pattern for the last t
 ### Round Robin
 
 Sounds pretty boring right?   
-We can make a couple of subtle changes to make this more listenable. First, we're going to use a feature you'll find in most music software known as ROUND ROBIN. 
+We can make a couple of subtle changes to make this more listenable. First, we're going to use a feature you'll find in most music software known as **ROUND ROBIN** (you might know this from computer sciences). 
 When a real drummer plays his snare or kick, the drum won't always sound the same since there are real instruments and humans involved instead of ones and zeroes. This is also true for the classic drum machines because of their analog oscillators! We can imitate this behaviour by cycling through multiple samples of the same sound that differ in very subtle ways - that's round robin. 
 
 Press **MENU** and go to the **PROGRAM EDIT**. Switch to the **SAMPLES** tab. If you bang your pads once again, you'll see that the sample on display changes.
@@ -60,7 +60,7 @@ Switch to the **LFO** tab, choose **Noise** as your **WAVEFORM** and reduce the 
 
 You can think of the LFOs ("low-frequency-oscillator") with this setting as a number generator that gives out a random value every time a pad is tirggered. You can assign the LFO to the four destinations on the left by dragging them up. 
 
-Try out some of the extreme settings and here what they do!  
+Try out some of the extreme settings and hear what they do!  
 Then dial them down to a more subtle setting if you like. You might not notice the stereo panning if you use the speakers and I'd advise to keep everything bassy like our kick drum in the middle of the stereo field for a better translation in less-than-ideal playback situations. The **AMP** destination is of particular interest, because it changes the volume of the sample/pad - now we don't have to bother with setting the velocity in the **GRID** view!
 
 Go through all of these steps for your snare drum as well.
@@ -74,7 +74,7 @@ It's a subtle difference, but subtlety matters a great deal.
 Round robin is also immensely important for what this tutorial is actually all about - emergence. 
 Stay in the **PROGRAM EDIT** and select one empty pad where you'd like to add another kick drum. This additional kick-drum will be used for "ghost notes" or "Zwischenschläge", which are quieter, less important hits between the big main hits you just programmed before.   
 
-For our example though, these ghost notes will change our pattern to quite a dramatic degree! Add "Kick 808 Short 1" to Layer 1 of our new pad and "Kick 808 Short 2" to Layer 2. Proceed to set up round robin and **LFO** modulation as before. Now load some other random sample into Layer 3 and 4 - it really does not matter which. Touch the **SAMPLE** tab again to switch to the second sample view. 
+For our example though, these ghost notes will change our pattern to quite a dramatic degree! Add "Kick 808 Short 1" to Layer 1 of our new pad and "Kick 808 Short 2" to Layer 2. Proceed to set up round robin and **LFO** modulation as before. Now load some other random sample into Layer 3 and 4 - it really does not matter which. Touch the **SAMPLE** tab again to switch to the second **SAMPLE** view. 
 
 ![Sample Mix](imgs/07.png)
 
@@ -96,7 +96,9 @@ This is my workaround for probabilistic MIDI events on the MPC. The MIDI events 
 
 ```
 POLY MODE
-When you use longer samples with this method, you might run into the issue of the sound being cut off by a silent MIDI event. To avoid this behavior, you can set your pad's POLY mode from Mono to Poly inside PROGRAM EDIT/MASTER. Now the MIDI events won't cut each other off.
+When you use longer samples with this method, you might run into the issue of the sound being cut off by a silent MIDI event.
+To avoid this behavior, you can set your pad's POLY mode from Mono to Poly inside PROGRAM EDIT/MASTER. 
+Now the MIDI events won't cut each other off.
 ```
 
 Drawn in ghost notes between your main kicks in the GRID view and repeat the entire procedure for a ghost-snare-pad. 
@@ -169,5 +171,5 @@ I haven't talked about sound design at all, so this still sounds kinda rough, bu
 God, I'm tired and I bet you're too.   
 You did great.   
 If you want to continue this loop, I urge you not to miss the third tutorial.   
-Don't forget to save your project ass "yourSurname"-IDM.
+Don't forget to save your project as "yourSurname"-IDM.
 

@@ -31,7 +31,7 @@ Now you probably get what I'm aiming for!
 ![16 Pads](imgs/03.png)
 
 
-Before you start jamming though, you might like to adjust the regions a little bit. In this current mode, all the splices are linked at their start- and endpoints, so except for the first slice, we only have to adjust the endpoints. The second Q-LINK bank proves to be quite handy here: Every encoder changes the endpoint in different resolution, just try it and you'll get what I mean.   
+Before you start jamming though, you might like to adjust the regions a little bit. In this current mode, all the slices are linked at their start- and endpoints, so except for the first slice, we only have to adjust the endpoints. The second Q-LINK bank proves to be quite handy here: Every encoder changes the endpoint in a different resolution, just try it and you'll get what I mean.   
 Try to create slices that start with a strong transient (meaning a drum hit instead of silence) and end smoothly without a click.   
 To achieve the latter, the waveform should be as neutral as possible at the end of your slice - try adjusting the zoom settings to get a closer look. 
 
@@ -56,8 +56,8 @@ Touch the **DO IT** icon and let the MPC do its magic. Press **PLAY START** to h
 MASTER-BPM
 Touching the SEQUENCE icon under the BPM selector changes the tempo to master-mode, 
 which is the same for all sequences. 
-We don't have to bother with that now. 
 ````
+
 Have you forgotten the BPM of your sample? Don't worry, the original isn't gone. 
 Just go back to the **SAMPLE EDIT**, press the big encoder and select the very first sample in the list. 
 Change chop-mode back to trim-mode and you'll see the original tempo once again. 
@@ -69,7 +69,7 @@ To achieve that, you have to take a couple of additional steps.
 Before you slice your sample by region, you have to create a single slice for ideally every single transient 
 - or as many regions as you can manage before your eventual mental breakdown. 
 
-This is where threshold dependent automatic splicing can really help you out. 
+This is where threshold dependent automatic slicing can really help you out. 
 After you've done that, convert your slices to a new program and create the corresponding MIDI events, 
 just like in this tutorial. Now you have much more freedom to adjust the tempo in the MAIN view. 
 Select your desired BPM and it should sound fine unless you go for some really extreme settings. 
@@ -100,7 +100,7 @@ So much fancier.
 PROCESSING THE SLICES
 If you still got some time left, you might like to process your slices individually inside the PROGRAM EDIT. 
 Press MENU and touch the icon. Switch to the SAMPLES tab. 
-Simply tab one of the pads to change to the corresponding pad/slice. 
+Simply tap one of the pads to change to the corresponding pad/slice. 
 Even in this view, we can make a couple creative adjustments. 
 Strictly speaking, all of the following changes do NOT affect the sample itself, 
 but rather the pad it has been assigned to. 
@@ -122,9 +122,9 @@ If four effects aren't enough for you, there are additional DRUM FX as well if y
 You might run into a dilemma here - "Should I sacrifice my original slice for a reverse effect?" 
 Thankfully, you don't have to choose between the two since you can copy a pad of your choice. 
 While your still inside the PROGRAM EDIT, press and hold COPY until all the pads light up yellow. 
-Tab the pad you want to copy - it should turn green. 
+Tap the pad you want to copy - it should turn green. 
 Your first pad bank is probably full, 
-so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tab your destination pad 
+so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tap your destination pad 
 - it should light up in red. 
 You can now process these two pads seperately. 
 
