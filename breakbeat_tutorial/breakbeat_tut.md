@@ -1,7 +1,8 @@
 # Breakbeat Tutorial
-## Setup
+
 In this tutorial, you will learn how to ~~steal other people's work~~ how to process existing music in interesting ways using the ancient hip-hop technique known as slicing/chopping.
 
+## Setup
 Open the **BROWSE** view by pressing **SHIFT + MENU**.
 Switch to the Places tab and select the SD-card 3430...(no idea why it has that name).   
 Within the breakbeat_tut folder, you will find a bunch of .wav files. Except for the Vittorio Gianni one, they are all short drum loops known as breakbeats.   
@@ -108,7 +109,7 @@ This also changes the tempo (which can be desirable) unless you turn on the warp
 Now you'll get some pretty crazy warping artifacts when you change the pitch! 
 This is how some of the more "out-there" electronic musicians like Arca do their sound design (but inside a DAW). 
 Another neat effect is to reverse the whole sample using the REVERSE icon. 
-If you want your slice to sound different every single time, you might fancy a look into the LFO tab, but I'll skip over that for now. 
+If you want your slice to sound different every single time, you might fancy a look into the LFO tab.
 You can check out the IDM tutorial if you're interested in that. 
 
 Go to the EFFECT tab next. 
@@ -123,7 +124,8 @@ Thankfully, you don't have to choose between the two since you can copy a pad of
 While your still inside the PROGRAM EDIT, press and hold COPY until all the pads light up yellow. 
 Tab the pad you want to copy - it should turn green. 
 Your first pad bank is probably full, 
-so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tab your destination pad - it should light up in red. 
+so let's switch to a different pad bank by pressing one of the red pad bank buttons above the pads and tab your destination pad 
+- it should light up in red. 
 You can now process these two pads seperately. 
 
 Keep in mind that these effects are applied to single pads. 
