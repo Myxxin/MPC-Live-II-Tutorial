@@ -5,7 +5,7 @@ This particular MPC (**M**usic **P**roduction **C**enter) in front of you is one
 ![MPC gif'd](https://33.media.tumblr.com/e8319b663e1ccbd6406e5e41e44a1d5f/tumblr_n916rkRm451rrb2jro1_r1_500.gif)  
 [MPC gif'd](https://robynthinks.wordpress.com/2015/10/30/mpc-gifd/)
 
-MPC influenced the history of hip-hop significantly, for they are best know for their capability to aid you during the creation of [Dope Ass Beats (DAB)](https://www.youtube.com/watch?v=hRlGHMQfmPA).  
+MPCs influenced the history of hip-hop significantly, for they are best know for their capability to aid you during the creation of [Dope Ass Beats (DAB)](https://www.youtube.com/watch?v=hRlGHMQfmPA).  
 In this tutorial, you’ll learn how to make a DAB of your own.
 
 While the first MPCs can be thought of as samplers, the MPC LIVE II is a Linux computer running a DAW, enclosed within a very sophisticated MIDI + audio interface.   
@@ -67,21 +67,25 @@ Let’s talk more about the **MAIN** view really quick.
 
 ![MAIN](/imgs/07.png)  
 
-First up, we have the **SEQUENCE** section. You can think of sequences as the individual parts that make up a song, such as the intro, the verse etc.A single sequence can also contain the entire song though.   
+First up, we have the **SEQUENCE** section. You can think of sequences as the individual parts that make up a song, such as the intro, the verse etc. A single sequence can also contain the entire song though.   
 You can change the length of the sequence by changing the number of bars.   
 
 A sequence is made of multiple tracks, which contain the MIDI events for your selected **PROGRAM** to play.   
 What’s great is that you can change up the tracks for each sequence without one of them affecting the other.  
 
 You can change your program, which creates the sound, in the **PROGRAM** section underneath.   
-What might be confusing is that you can assign a single program to multiple tracks at them same time. If you change this program for one track, it changes for all the other ones it is assigned to as well!  
+What might be confusing is that you can assign a single program to multiple tracks at the same time. If you change a program, it changes for all the other ones it is assigned to as well!  
 
-There’s much more to the **MAIN** view, but this is enough for now. If this was all a bit confusing for you – don’t worry about it, we’ll get back to it later. 
+There’s much more to the **MAIN** view, but this is enough for now. If this was all a bit confusing for you – don’t worry about it, you'll figure it out as we go on. 
 
 ### MENU View
 
 To switch to a different view, press the **MENU** button and you’ll be presented with a plethora of icons to touch.   
-You can also quick-save your project by touching the floppy disc icon. Some of these can be accessed by via the buttons such as the **MIX** view. To access the view that is written underneath, such as the **SAMPLER**, press **SHIFT + MIX**. 
+You can also quick-save your project by touching the floppy disc icon.   
+
+![MENU](/imgs/08.png)
+
+Some of these can be accessed by via the buttons such as the **MIX** view. To access the view that is written underneath, such as the **SAMPLER**, press **SHIFT + MIX**. 
 
 ### The SHIFT Button
 
@@ -89,7 +93,12 @@ The **SHIFT** button is of extreme importance in general – you can hold it to 
 
 ### Basic Project Management
 
-Go back to the **MAIN** view and touch the **PROJECT** selector in the top left corner. Here, you can save your project (which contains all recorded samples) internally or onto SD/thumb drive. You can also export your current selected sequence as a .wav file. Touch the **NEW** icon at the bottom to go back to the starting screen and this time, select an empty project for you to fill.
+Go back to the **MAIN** view and touch the **PROJECT** selector in the top left corner.   
+
+![Projects](/imgs/09.png)  
+![Project Management](/imgs/10.png)
+
+Here, you can save your project (which contains all recorded samples) internally or onto SD/thumb drive. You can also export your current selected sequence as a .wav file. Touch the **NEW** icon at the bottom to go back to the starting screen and this time, select an empty project for you to fill.
 
 ## Pick your Poison
 
